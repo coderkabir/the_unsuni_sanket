@@ -1,1 +1,1 @@
-# the_unsuni_sanket
+# Project-Sanket-Sign-Language-Detection-Prototype
